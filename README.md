@@ -1,2 +1,3 @@
 # jenkins_pipeline-py01
-jenkins python 
+This demo for jenkins for building CI/CD pipeline
+
